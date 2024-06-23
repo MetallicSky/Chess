@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>D:/Users/user/Downloads/Images/rook_white.png</file>
+        <file>D:/Users/user/Downloads/Images/rook_black.png</file>
+        <file>D:/Users/user/Downloads/Images/queen_white.png</file>
+        <file>D:/Users/user/Downloads/Images/queen_black.png</file>
+        <file>D:/Users/user/Downloads/Images/pawn_white.png</file>
+        <file>D:/Users/user/Downloads/Images/pawn_black.png</file>
+        <file>D:/Users/user/Downloads/Images/knight_white.png</file>
+        <file>D:/Users/user/Downloads/Images/knight_black.png</file>
+        <file>D:/Users/user/Downloads/Images/king_white.png</file>
+        <file>D:/Users/user/Downloads/Images/king_black.png</file>
+        <file>D:/Users/user/Downloads/Images/bishop_white.png</file>
+        <file>D:/Users/user/Downloads/Images/bishop_black.png</file>
+    </qresource>
+</RCC>
